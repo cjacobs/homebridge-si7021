@@ -1,0 +1,8 @@
+"accessories": [
+    {
+      "accessory": "Humidity Sensor",
+      "name": "Pi Humidity Sensor",
+      "pin": 4
+    }
+  ],
+  
