@@ -18,7 +18,6 @@ class Si7021Platform {
     constructor(log, config) {
         this.log = log
         this.name = config.name
-        this.pin = config.pin
         this.currentTemperatureC = 0
         this.currentHumidity = 0
         this.sensor = new Si7021()
