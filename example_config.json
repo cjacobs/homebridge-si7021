@@ -1,8 +1,6 @@
 "accessories": [
     {
-      "accessory": "Humidity Sensor",
-      "name": "Pi Humidity Sensor",
-      "pin": 4
+      "accessory": "si7021Sensor",
+      "name": "Temperature and Humidity Sensor",
     }
   ],
-  
