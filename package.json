@@ -1,0 +1,31 @@
+{
+    "name": "homebridge-si7021",
+    "version": "1.0.1",
+    "description": "Hombridge plugin for the si7021 temperature and humidity sensor",
+    "main": "index.js",
+    "engines": {
+      "node": ">=12.15.0",
+      "homebridge": ">=0.4.50"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/cjacobs/homebridge-si7021"
+    },
+    "keywords": [
+      "homebridge-plugin",
+      "si7021",
+      "humidity-sensor",
+      "temperature-sensor",
+      "raspberry-pi",
+      "homebridge"
+    ],
+    "scripts": {
+    },
+    "author": "Chuck Jacobs",
+    "license": "",
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+  }
+  
